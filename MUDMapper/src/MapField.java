@@ -1,4 +1,5 @@
+import javafx.scene.control.Button;
 
-public class MapField {
+public class MapField extends Button {
 
 }
